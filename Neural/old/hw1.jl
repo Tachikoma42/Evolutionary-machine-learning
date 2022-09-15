@@ -1,4 +1,3 @@
-#Sihao Ren // sren03 // 947105531
 using Flux
 using Statistics
 using Flux: onehotbatch, onecold, crossentropy, throttle

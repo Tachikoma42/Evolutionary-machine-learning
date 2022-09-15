@@ -1,4 +1,3 @@
-#Sihao Ren // sren03 // 947105531
 using Evolutionary
 using Flux
 using Flux: onehot, onecold, logitcrossentropy, onehotbatch, crossentropy
