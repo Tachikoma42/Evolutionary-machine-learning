@@ -21,11 +21,11 @@ Various evolutionary algorithms are used to train the model.
 
 The following algorithm are implemented in this repository:
 
-- [x] [Genetic Algorithm]()
-- [x] [Evolution Strategies]()
-- [x] [Particle Swarm Optimization]()
-- [x] [Learning classifier system]()
-- [x] [Artificial bee colony algorithm]()
+- [x] [Genetic Algorithm](https://github.com/Tachikoma42/Evolutionary-machine-learning/tree/main/GA)
+- [x] [Evolution Strategies](https://github.com/Tachikoma42/Evolutionary-machine-learning/tree/main/ES)
+- [x] [Particle Swarm Optimization](https://github.com/Tachikoma42/Evolutionary-machine-learning/tree/main/PSO)
+- [x] [Learning classifier system](https://github.com/Tachikoma42/Evolutionary-machine-learning/tree/main/LCS)
+- [x] [Artificial bee colony algorithm](https://github.com/Tachikoma42/Evolutionary-machine-learning/tree/main/ABC)
 
 
 ## Environment
